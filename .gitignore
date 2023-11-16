@@ -21,3 +21,10 @@
 go.work
 *.secret
 **/deleted-users/
+
+# executable files
+bin/
+app
+app.exe
+rayslack
+rayslack.exe
